@@ -1,0 +1,15 @@
+13
+
+gaaradie /data/Sound/gaaradie.wav
+flash /data/Sound/gaaraflash.wav
+punch /data/Sound/gaarapunch.wav
+gaaraskill /data/Sound/gaaraskill.wav
+gaarawin /data/Sound/gaarawin.wav
+gaarahurt /data/Sound/gaarahurt.wav
+narutohurt /data/Sound/narutohurt.wav
+narutophanthan /data/Sound/Narutophanthan.wav
+rasengan /data/Sound/rasengan1.wav
+narutowin /data/Sound/narutowin1.wav
+narutodie /data/Sound/narutodie1.wav
+bgmusic /data/Sound/bgmusic1.wav
+battlesound /data/Sound/battlesound1.wav

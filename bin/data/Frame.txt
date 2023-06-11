@@ -1,0 +1,995 @@
+137
+
+slow
+image src/data/game_images/slow2.png
+x 0
+y 0
+w 50
+h 63
+
+fast
+image src/data/game_images/fastitem1.png
+x 0
+y 0
+w 50
+h 45
+
+toxic
+image src/data/game_images/toxic2.png
+x 0
+y 0
+w 50
+h 80
+
+manaitem
+image src/data/game_images/manaitem2.png
+x 0
+y 0
+w 40
+h 41
+
+
+hpitem
+image src/data/game_images/hpitem2.png
+x 0
+y 0
+w 30
+h 43
+
+soundON
+image src/data/gamepause/soundON1.png
+x 0
+y 0
+w 417
+h 240
+
+soundOFF
+image src/data/gamepause/soundOFF1.png
+x 0
+y 0
+w 417
+h 240
+
+mute
+image src/data/gamestart/mute1.png
+x 0
+y 0
+w 70
+h 70
+
+unmute
+image src/data/gamestart/unmute1.png
+x 0
+y 0
+w 70
+h 70
+
+quitGame
+image src/data/gamestart/quitgame1.png
+x 0
+y 0
+w 1300
+h 740
+
+defaultGame
+image src/data/gamestart/defaultgame1.png
+x 0
+y 0
+w 1300
+h 740
+
+playGame
+image src/data/gamestart/playgame1.png
+x 0
+y 0
+w 1300
+h 740
+
+hpbar
+image src/data/game_images/hpbar.png
+x 0
+y 0
+w 400
+h 160
+
+
+hpbar_2
+image src/data/game_images/hpbar_2.png
+x 0
+y 0
+w 400
+h 160
+
+undecor
+image src/data/gameover/undecor.png
+x 0
+y 0
+w 1290
+h 740
+
+no
+image src/data/gameover/no.png
+x 0
+y 0
+w 1290
+h 740
+
+yes
+image src/data/gameover/yes.png
+x 0
+y 0
+w 1290
+h 740
+
+continue
+image src/data/gamepause/continue.png
+x 0
+y 0
+w 139
+h 240
+
+continueDisable
+image src/data/gamepause/continueDisable.png
+x 0
+y 0
+w 139
+h 240
+
+set
+image src/data/gamepause/set.png
+x 0
+y 0
+w 139
+h 240
+
+setDisable
+image src/data/gamepause/setDisable.png
+x 0
+y 0
+w 139
+h 240
+
+quit
+image src/data/gamepause/quit.png
+x 0
+y 0
+w 139
+h 240
+
+quitDisable
+image src/data/gamepause/quitDisable.png
+x 0
+y 0
+w 139
+h 240
+
+menuGame
+image src/data/gamepause/menu.png
+x 15
+y 1
+w 602
+h 345
+
+Intro
+image src/data/game_images/intro.png
+x 10
+y 0
+w 1290
+h 740
+
+phitieu1
+image src/data/Bot_kakashi/phitieu1.png
+x 0
+y 0
+w 40
+h 40
+
+phitieu2
+image src/data/Bot_kakashi/phitieu2.png
+x 0
+y 0
+w 40
+h 40
+
+phitieu3
+image src/data/Bot_kakashi/phitieu3.png
+x 0
+y 0
+w 40
+h 40
+
+phitieu4
+image src/data/Bot_kakashi/phitieu4.png
+x 0
+y 0
+w 40
+h 40
+
+kakashi0
+image src/data/Bot_kakashi/kakashi0.png
+x 0
+y 0
+w 150
+h 130
+
+kakashi1
+image src/data/Bot_kakashi/kakashi1.png
+x 0
+y 0
+w 150
+h 130
+
+kakashi2
+image src/data/Bot_kakashi/kakashi2.png
+x 0
+y 0
+w 150
+h 130
+
+kakashi3
+image src/data/Bot_kakashi/kakashi3.png
+x 0
+y 0
+w 150
+h 130
+
+Avatar
+image src/data/naruto/naruto1.png
+x 18
+y 2
+w 278
+h 206
+
+Easy
+image src/data/game_images/levelEnable1.png
+x 19
+y 16
+w 107
+h 51
+
+EasyDisabled
+image src/data/game_images/levelDisable.png
+x 19
+y 16
+w 107
+h 51
+
+Hard
+image src/data/game_images/levelEnable1.png
+x 128
+y 70
+w 107
+h 51
+
+HardDisabled
+image src/data/game_images/levelDisable.png
+x 128
+y 70
+w 107
+h 51
+
+Map
+image src/data/game_images/map_official.png
+x 0
+y 30
+w 1300
+h 738
+
+Logo1
+image src/data/game_images/logo_player.png
+x 9
+y 3
+w 183
+h 31
+
+Logo2
+image src/data/game_images/logo_player.png
+x 7
+y 41
+w 184
+h 30
+
+
+Stance1
+image src/data/naruto/naruto2.png
+x 46
+y 88
+w 92
+h 122
+
+Stance2
+image src/data/naruto/naruto2.png
+x 161
+y 88
+w 92
+h 122
+
+Stance3
+image src/data/naruto/naruto2.png
+x 278
+y 88
+w 92
+h 122
+
+Stance4
+image src/data/naruto/naruto2.png
+x 389
+y 88
+w 92
+h 122
+Stance5
+image src/data/naruto/naruto2.png
+x 499
+y 88
+w 92
+h 122
+
+Stance6
+image src/data/naruto/naruto2.png
+x 614
+y 88
+w 92
+h 122
+
+
+
+Walk1
+image src/data/naruto/naruto2.png
+x 38
+y 311
+w 85
+h 122
+
+Walk2
+image src/data/naruto/naruto2.png
+x 125
+y 311
+w 85
+h 122
+
+Walk3
+image src/data/naruto/naruto2.png
+x 234
+y 311
+w 85
+h 122
+
+Walk4
+image src/data/naruto/naruto2.png
+x 323
+y 311
+w 85
+h 122
+
+Walk5
+image src/data/naruto/naruto2.png
+x 406
+y 311
+w 85
+h 122
+
+Walk6
+image src/data/naruto/naruto2.png
+x 512
+y 311
+w 85
+h 122
+
+
+
+Run1
+image src/data/naruto/naruto3.png
+x 40
+y 89
+w 120
+h 105
+
+Run2
+image src/data/naruto/naruto3.png
+x 176  
+y 89
+w 120
+h 105
+
+Run3
+image src/data/naruto/naruto3.png
+x 323
+y 89
+w 120
+h 105
+
+Run4
+image src/data/naruto/naruto3.png
+x 426
+y 89
+w 120
+h 105
+
+Run5
+image src/data/naruto/naruto3.png
+x 555
+y 89
+w 120
+h 105
+
+Run6
+image src/data/naruto/naruto3.png
+x 684
+y 89
+w 120
+h 105
+
+
+Jump1
+image src/data/naruto/naruto4.png
+x 45
+y 83
+w 77
+h 128
+
+Jump2
+image src/data/naruto/naruto4.png
+x 143
+y 83
+w 77
+h 128
+
+
+Landing1
+image src/data/naruto/naruto4.png
+x 545
+y 146
+w 81
+h 87
+
+Dicking
+image src/data/naruto/naruto4.png
+x 545
+y 146
+w 81
+h 87
+
+
+Damage1
+image src/data/naruto/naruto5.png
+x 36
+y 104
+w 103
+h 115
+
+Damage2
+image src/data/naruto/naruto5.png
+x 142
+y 104
+w 103
+h 115
+
+
+
+
+Death1
+image src/data/naruto/naruto5.png
+x 339
+y 109
+w 95
+h 103
+
+Death2
+image src/data/naruto/naruto5.png
+x 458
+y 153
+w 120
+h 58
+
+Death3
+image src/data/naruto/naruto5.png
+x 600
+y 169
+w 126
+h 49
+
+Death4
+image src/data/naruto/naruto5.png
+x 750
+y 138
+w 99
+h 84
+
+
+
+Punch1
+image src/data/naruto/naruto6.png
+x 144
+y 100
+w 137
+h 120
+
+Punch2
+image src/data/naruto/naruto6.png
+x 276
+y 100
+w 137
+h 120
+
+Punch3
+image src/data/naruto/naruto6.png
+x 429
+y 100
+w 137
+h 120
+
+
+
+
+SpecialAtk1
+image src/data/naruto/naruto7_1.png
+x 53
+y 170
+w 136
+h 58
+
+SpecialAtk2
+image src/data/naruto/naruto7_1.png
+x 210
+y 110
+w 151
+h 120
+
+SpecialAtk3
+image src/data/naruto/naruto7_1.png
+x 393
+y 82
+w 148
+h 156
+
+SpecialAtk4
+image src/data/naruto/naruto7_1.png
+x 563
+y 46
+w 158
+h 231
+
+SpecialAtk5
+image src/data/naruto/naruto7_1.png
+x 741
+y 60
+w 173
+h 202
+
+SpecialAtk6
+image src/data/naruto/naruto7_1.png
+x 935
+y 51
+w 184
+h 217
+
+SpecialAtk7
+image src/data/naruto/naruto8.png
+x 30
+y 23
+w 122
+h 138
+
+SpecialAtk8
+image src/data/naruto/naruto8.png
+x 166
+y 23
+w 122
+h 138
+
+SpecialAtk9
+image src/data/naruto/naruto8.png
+x 309
+y 23
+w 122
+h 138
+
+SpecialAtk10
+image src/data/naruto/naruto8.png
+x 446
+y 23
+w 122
+h 138
+
+
+
+SpecialAtkRepeat1
+image src/data/naruto/naruto9.png
+x 77
+y 88
+w 120
+h 137
+
+SpecialAtkRepeat2
+image src/data/naruto/naruto9.png
+x 214
+y 88
+w 120
+h 137
+
+SpecialAtkRepeat3
+image src/data/naruto/naruto9.png
+x 349
+y 88
+w 120
+h 137
+
+SpecialAtkRepeat4
+image src/data/naruto/naruto9.png
+x 483
+y 88
+w 120
+h 137
+
+SpecialAtkRepeat5
+image src/data/naruto/naruto9.png
+x 627
+y 88
+w 120
+h 137
+
+SpecialAtkRepeat6
+image src/data/naruto/naruto9.png
+x 764
+y 88
+w 120
+h 137
+
+SpecialAtkRepeat7
+image src/data/naruto/naruto9.png
+x 899
+y 88
+w 120
+h 137
+
+SpecialAtkRepeat8
+image src/data/naruto/naruto9.png
+x 1037
+y 88
+w 120
+h 137
+
+
+
+
+
+FirePower1
+image src/data/naruto/naruto10.png
+x 61
+y 55
+w 141
+h 138
+
+FirePower2
+image src/data/naruto/naruto10.png
+x 231
+y 58
+w 133
+h 136
+
+FirePower3
+image src/data/naruto/naruto10.png
+x 393
+y 55
+w 160
+h 144
+
+FirePower4
+image src/data/naruto/naruto10.png
+x 588
+y 55
+w 179
+h 145
+
+FirePower5
+image src/data/naruto/naruto10.png
+x 800
+y 55
+w 176
+h 144
+
+
+Bullet1
+image src/data/naruto/naruto11.png
+x 75
+y 100
+w 402
+h 272
+
+Bullet2
+image src/data/naruto/naruto11.png
+x 504
+y 100
+w 432
+h 272
+
+Bullet3
+image src/data/naruto/naruto11.png
+x 985
+y 100
+w 410
+h 272
+
+Hurt1
+image src/data/gaara/gaaraHurt.png
+x 4
+y 22
+w 116
+h 118
+
+
+
+Hurt2
+image src/data/gaara/gaaraHurt.png
+x 123
+y 22
+w 116
+h 118
+
+
+Fall1
+image src/data/gaara/gaaraFall.png
+x 4
+y 21
+w 100
+h 115
+
+
+Fall2
+image src/data/gaara/gaaraFall.png
+x 107
+y 21
+w 100
+h 115
+
+
+Idle1
+image src/data/gaara/gaaraIdle.png
+x 4
+y 23
+w 68
+h 117
+
+Idle2
+image src/data/gaara/gaaraIdle.png
+x 76
+y 23
+w 68
+h 117
+Idle3
+image src/data/gaara/gaaraIdle.png
+x 147
+y 23
+w 68
+h 117
+
+Idle4
+image src/data/gaara/gaaraIdle.png
+x 220
+y 23
+w 68
+h 117
+
+
+G_Jump1
+image src/data/gaara/gaaraJump.png
+x 4
+y 22
+w 68
+h 123
+
+G_Jump2
+image src/data/gaara/gaaraJump.png
+x 75
+y 22
+w 68
+h 123
+
+
+KnockedBack1
+image src/data/gaara/gaaraKnockedBack.png
+x 4
+y 21
+w 148
+h 95
+
+KnockedBack2
+image src/data/gaara/gaaraKnockedBack.png
+x 155
+y 21
+w 148
+h 95
+
+
+
+Running1
+image src/data/gaara/gaaraRunning.png
+x 4
+y 22
+w 100
+h 105
+
+Running2
+image src/data/gaara/gaaraRunning.png
+x 107
+y 22
+w 100
+h 105
+
+Running3
+image src/data/gaara/gaaraRunning.png
+x 211
+y 22
+w 100
+h 105
+
+Running4
+image src/data/gaara/gaaraRunning.png
+x 316
+y 22
+w 100
+h 105
+
+Running5
+image src/data/gaara/gaaraRunning.png
+x 420
+y 22
+w 100
+h 105
+
+Running6
+image src/data/gaara/gaaraRunning.png
+x 524
+y 22
+w 100
+h 105
+
+Walking1
+image src/data/gaara/gaaraWalking.png
+x 4
+y 23
+w 84
+h 121
+
+Walking2
+image src/data/gaara/gaaraWalking.png
+x 91
+y 23
+w 84
+h 121
+
+Walking3
+image src/data/gaara/gaaraWalking.png
+x 179
+y 23
+w 84
+h 121
+
+Walking4
+image src/data/gaara/gaaraWalking.png
+x 267
+y 23
+w 84
+h 121
+
+Walking5
+image src/data/gaara/gaaraWalking.png
+x 355
+y 23
+w 84
+h 121
+
+Walking6
+image src/data/gaara/gaaraWalking.png
+x 443
+y 23
+w 84
+h 121
+
+
+Combo1
+image src/data/gaara/gaaraCombo1.png
+x 4
+y 23
+w 116
+h 117
+
+Combo2
+image src/data/gaara/gaaraCombo1.png
+x 123
+y 23
+w 116
+h 117
+
+Combo3
+image src/data/gaara/gaaraCombo1.png
+x 243
+y 23
+w 116
+h 117
+
+
+Combo4
+image src/data/gaara/gaaraCombo1.png
+x 363
+y 23
+w 116
+h 117
+
+
+SandBurial1
+image src/data/gaara/gaaraSandBurial.png
+x 229
+y 39
+w 210
+h 175
+
+SandBurial2
+image src/data/gaara/gaaraSandBurial.png
+x 670
+y 39
+w 210
+h 175
+
+SandBurial3
+image src/data/gaara/gaaraSandBurial.png
+x 229
+y 235
+w 210
+h 175
+
+SandBurial4
+image src/data/gaara/gaaraSandBurial.png
+x 670
+y 235
+w 210
+h 175
+
+SandBurial5
+image src/data/gaara/gaaraSandBurial.png
+x 229
+y 431
+w 210
+h 175
+
+SandBurial6
+image src/data/gaara/gaaraSandBurial.png
+x 670
+y 431
+w 210
+h 175
+
+SandBurial7
+image src/data/gaara/gaaraSandBurial.png
+x 240
+y 652
+w 173
+h 172
+
+SandBurial8
+image src/data/gaara/gaaraSandBurial.png
+x 664
+y 652
+w 173
+h 172
+
+SandBurial9
+image src/data/gaara/gaaraSandBurial.png
+x 240
+y 846
+w 173
+h 172
+
+SandBurialRepeat1
+image src/data/gaara/gaaraSandBurial.png
+x 27
+y 104
+w 73
+h 105
+
+G_Dicking
+image src/data/gaara/gaaraOnGround.png
+x 6
+y 29
+w 69
+h 77
